@@ -30,7 +30,7 @@ The image data from kaggle was used. Then CNN was used to classify images into 2
 ![Screenshot 2023-02-03 234721](https://user-images.githubusercontent.com/123642022/216660175-9a0a8ced-ce9e-41fc-8cd9-46fa8a83a9ec.png)
 
 Application-
-This can be used in computer vision and provide satisfaction of custumers who visited at the shop without survey. 
+This can be applied in computer vision and provide satisfaction of custumers who visited at the shop without survey. 
 
 ### Project 5 Tech layoff visualization   
 The tech layoff data from kaggle was used to produce Tableau dashboard for visualization.
