@@ -37,7 +37,7 @@ The tech layoff data from kaggle was used to produce Tableau dashboard for visua
 
 ![Tech layoff](https://user-images.githubusercontent.com/123642022/216662192-208b7c73-148d-44d9-ba57-38ea9089c242.png)
 
-This dashboard can be used for story telling of tech company employment from the start of COVID19 until now (end of January, 2023). 
+This dashboard can be used for story telling of tech company layoff from the start of COVID19 until now (end of January, 2023). 
 
 ### Project 6  Exploring world happiness report     
 The world happiness report data was acquired from kaggle and used SQLite with python to get some insight from the data. 
