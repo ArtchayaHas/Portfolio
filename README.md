@@ -47,7 +47,7 @@ It was the first project that make me really wanted to change my job to data sci
 
 ___
 
-After these projects, more real world application projects will be included. And description will be placed in the project foldder. 
+After these projects, more real world application projects will be included. And description will be placed in the project folder. 
 
 
 
