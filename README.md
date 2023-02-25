@@ -1,6 +1,6 @@
 # Data science portfolio 
 
-## This portfolio consists of projects which used various skills, including data gatering, data preparation, ML, deep learning, and data visualization.
+**This portfolio consists of projects which used various skills, including data gatering, data preparation, ML, deep learning, and data visualization.**
 
 ### Project 1 Youtube API 
 In this project, I collected data from official Love Live! youtube channel using API, manipulated some data, changed the data into dataframe, and saved into csv file.
