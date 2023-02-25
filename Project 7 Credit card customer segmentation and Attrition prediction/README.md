@@ -41,6 +41,6 @@ Also, feature importance can be acquired as shown;
 
 ![rsz_screenshot_20230224_095319](https://user-images.githubusercontent.com/123642022/221209705-d47209af-aefe-4548-b62a-53206c1df92a.png)
 
-This data can be applied for detect the customers who have high risk for attrition and being target for providing some offers before they decided to drop out.  
+This model can be used for detect the customers who have high risk for attrition and the data can be applied for creating some offers for the target before they decided to drop out.  
 
 
