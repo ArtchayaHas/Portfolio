@@ -15,6 +15,16 @@ The time features were created and the train data was splitted to train and vali
 XGBoost Regressor was trained and RMSE on training and validation set was calculated.
 RMSE on validation set is 29.74.
 
-The feature importance was visulized. 
+The feature importance was visualized. 
 
 
+![Screenshot 2023-03-09 132005](https://user-images.githubusercontent.com/123642022/223941179-2a384918-57a6-4f50-b9fc-ec6939b3da09.png)
+
+**4. Future prediction**
+
+The test data was used for future sale prediction.
+
+Here is an example of store 1 product 1 sale prediction.
+
+
+![Screenshot 2023-03-09 132018](https://user-images.githubusercontent.com/123642022/223941470-6ae95763-73fe-4a3b-9a0e-d3436309ba75.png)
