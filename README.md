@@ -35,7 +35,7 @@ This can be applied in computer vision and provide satisfaction of custumers who
 ### Project 5 Tech layoff visualization   
 The tech layoff data from kaggle was used to produce Tableau dashboard for visualization.
 
-![Tech layoff](https://user-images.githubusercontent.com/123642022/216662192-208b7c73-148d-44d9-ba57-38ea9089c242.png)
+![Screenshot 2023-03-22 141151](https://user-images.githubusercontent.com/123642022/226828087-b5303446-2bf7-4962-a513-627028f78e55.png)
 
 This dashboard can be used for story telling of tech company layoff from the start of COVID19 until now (end of January, 2023). 
 
