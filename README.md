@@ -25,7 +25,10 @@ Application-
 Lenght of stay is an essential information for hospital because it affects the management of hospital such as bed regulation, healthcare worker adjustment, and medication allocation. Furthermore, it provides insight of capacity of the hospital. Therefore, knowing which patients are prone to stay in mid-long term will help with hospital management. 
 
 ### Project 4 CNN binary image classification   
-The image data from kaggle was used. Then CNN was used to classify images into 2 groups; smile and non-smile.   
+The image data from kaggle was used. Then CNN was used to classify images into 2 groups; smile and non-smile.  
+
+Prediction result
+
 
 ![Screenshot 2023-02-03 234721](https://user-images.githubusercontent.com/123642022/216660175-9a0a8ced-ce9e-41fc-8cd9-46fa8a83a9ec.png)
 
