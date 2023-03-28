@@ -1,4 +1,13 @@
 ## Beer recommendation system 
+
+**Application**
+
+The recommendation system is widely used in many renowned companies, such as Amazon, Netflix, and YouTube. With accurate recommendations, customers will receive a satisfactory service experience and are likely to purchase or use more products from the company, leading to increased company profits.
+
+
+
+**Project details**
+
 This project start from exploring the data to answer some questions such as 
 find the beers that got most comment and what score that they got. 
 
