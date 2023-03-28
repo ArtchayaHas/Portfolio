@@ -1,4 +1,13 @@
 ## Project 9 Transaction fraud detection
+
+**Application**
+
+Using machine learning to classify fraudulent transactions reduces manual effort and allows for efficient processing of large volumes of data. By adapting to real-time detection, it can help prevent financial losses for both customers and the company.
+
+
+
+**Project details**
+
 The data was acquired from Kaggle by using opendatasets library. 
 
 **1. Exploratory data analysis**
