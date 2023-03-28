@@ -1,5 +1,10 @@
 ### This computer vision project used Feature matching from OpenCV and added little code for calculation total price of the items the computer have seen and matched. 
 
+**Application**
+
+Computer vision and price calculation can be utilized to calculate the price of items that cannot be labeled with a barcode, such as freshly baked sweets and bakery products. This approach would be beneficial for local shops that sell these types of items.
+
+
 **The workflow of this program**
 1. Get names of items from files' name (Picture files) and saved them in list.
 
