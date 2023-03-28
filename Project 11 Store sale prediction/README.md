@@ -1,4 +1,12 @@
 ## Project 11 Store sale prediction 
+
+**Application**
+
+Using time series analysis for sales prediction can forecast the trends in the sale of items and estimate the number of items that will be sold in the future. This helps stores effectively regulate their stock of items, reducing the loss of overstocking or understocking and minimizing the cost of labor.
+
+
+**Project details**
+
 The data was acquired from Kaggle by using opendatasets library. 
 
 **1. Exploratory data analysis**
