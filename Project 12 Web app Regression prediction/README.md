@@ -1,5 +1,13 @@
 ## Project 12 Web app Regression prediction
 
+**Application**
+
+A data-driven web application enables users to input their data, which can be used as features for the machine learning model. The application provides predictions based on the user-provided data. This web application links the machine learning model in the backend to the frontend, allowing users to directly use the machine learning model prediction on their own.
+
+
+
+**Project details**
+
 This project I tried to make an easy data-driven web app from practice health care cost regression that I've done before.
 
 After the regression model was trained and tested, it was saved in pickle and used for web app.
