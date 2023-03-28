@@ -1,4 +1,13 @@
 ## Project 7 Credit card customer segmentation and Attrition prediction 
+
+**Application** 
+
+  Customer segmentation is a crucial process that helps a company learn about its customers. As each customer segment has different needs, identifying which group the customer belongs to is valuable information for the company. This knowledge aids the company in providing appropriate services to customers in each section.
+  
+  Additionally, understanding the pattern of customer attrition can help the company reduce the attrition rate and retain customers.
+
+**Projec details** 
+
 The data was acquired from Kaggle by using opendatasets library. 
 
 **1. Exploratory data analysis**
